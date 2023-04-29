@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Coelho
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 4/8
+- 🌱 Estudante Sistemas da Informação 5/8
 <div align="center">
   <a href="https://github.com/Lucas-Coelh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Coelh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
